@@ -1,0 +1,27 @@
+{
+    "directories": [{
+        "path": "node_modules",
+        "modules": [{
+                "path": "jquery/dist",
+                "js": [
+                    "jquery.min.js"
+                ]
+            },
+            {
+                "path": "semantic-ui-css",
+                "js": [
+                    "semantic.min.js"
+                ],
+                "css": [
+                    "semantic.min.css",
+                    "themes"
+                ]
+            }
+        ]
+    }],
+    "assetsTypes": [
+        "js",
+        "css"
+    ],
+    "outDir": "public"
+}

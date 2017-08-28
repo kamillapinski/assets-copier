@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "dependencies": {
+        "jquery": "^3",
+        "semantic-ui-css": "^2.2"
+    }
+}

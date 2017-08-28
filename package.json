@@ -1,0 +1,18 @@
+{
+    "name": "assets-copier",
+    "author": {
+        "email": "k.lapinski@onet.pl",
+        "name": "Kamil Łapiński"
+    },
+    "license": "MIT",
+    "description": "A simple utility which helps you copy your assets",
+    "dependencies": {
+        "fs-extra": "^4.0.1",
+        "jquery": "^3.2.1",
+        "semantic-ui-css": "^2.2.12"
+    },
+    "bin": {
+        "assets-copier": "bin/assets.js"
+    },
+    "version": "0.0.1"
+}
