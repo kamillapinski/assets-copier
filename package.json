@@ -12,6 +12,6 @@
     "bin": {
         "assets-copier": "bin/assets.js"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/kamillapinski/assets-copier/"
 }
